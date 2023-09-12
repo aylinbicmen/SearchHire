@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jwTSkO1esQiHo4Rq+wff2jRyAZDsCOE6OHd3OmqR9NY=",
+  "Source": "SearchHire.WebAPI",
+  "BasePath": "_content/SearchHire.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

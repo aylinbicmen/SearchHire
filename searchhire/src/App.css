@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&display=swap');
+
+.main-title{
+  font-family: 'Courgette', cursive;
+  font-size: 3rem;
+  font-weight: bolder;
+  color: #50bfa5;
+}
+
+.sub-title{
+  font-family: 'Courgette', cursive;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #f7cc7f;
+}
+
+.division-title{
+  font-family: 'Concert One', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #dc3545;
+}
+
+.c-title{
+  font-family: 'Averia Serif Libre', cursive;
+  font-weight: bold;
+  color: #dc3545;
+}
+
+.c-text{
+  font-family: 'Averia Serif Libre', cursive;
+}
+
+.footerFixer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.profile-title{
+  font-family: 'Courgette', cursive;
+  font-weight: bold;
+  color: #1a32a0;
+}

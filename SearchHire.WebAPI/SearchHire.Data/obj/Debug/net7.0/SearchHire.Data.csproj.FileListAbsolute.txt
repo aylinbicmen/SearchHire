@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\bin\Debug\net7.0\SearchHire.Data.deps.json
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\bin\Debug\net7.0\SearchHire.Data.runtimeconfig.json
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\bin\Debug\net7.0\SearchHire.Data.dll
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\bin\Debug\net7.0\SearchHire.Data.pdb
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\SearchHire.Data.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\SearchHire.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\SearchHire.Data.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\SearchHire.Data.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\SearchHire.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\SearchHire.Data.dll
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\refint\SearchHire.Data.dll
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\SearchHire.Data.pdb
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\SearchHire.Data.genruntimeconfig.cache
+C:\Users\admin\Desktop\Projects\SearchHire.WebAPI\SearchHire.Data\obj\Debug\net7.0\ref\SearchHire.Data.dll

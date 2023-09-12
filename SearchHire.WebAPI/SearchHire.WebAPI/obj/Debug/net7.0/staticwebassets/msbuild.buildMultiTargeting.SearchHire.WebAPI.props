@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SearchHire.WebAPI.props" />
+</Project>

@@ -1,5 +1,5 @@
 # SearchHire
-A Job Search Application Developed With ReactJS.
+SearchHire is an e-commerce application developed with ReactJS. The purpose of this application is to let people offer services for those who need help.
 
 ### FrontEnd
 - Bootstrap 5
